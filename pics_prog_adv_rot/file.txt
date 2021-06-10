@@ -1,0 +1,7 @@
+dandylion_rot.jpg
+file.txt
+orchid_rot.jpg
+rose_rot.jpg
+sunflower_field_rot.jpg
+sunflower_rot.jpg
+tulip_rot.jpg
